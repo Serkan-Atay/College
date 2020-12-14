@@ -1,2 +1,2 @@
 # College
-Some tasks made as part of some college modules.
+Some tasks made as part of a college module.
