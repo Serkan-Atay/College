@@ -1,2 +1,2 @@
 # College
-Some tasks made as part of a college module.
+Some coding & programming tasks made as part of a college module.
